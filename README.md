@@ -40,6 +40,7 @@ StudyNotion provides:
 
 ## 📂 Project Structure
 
+```
 FINAL SS/
 │
 ├── server/
@@ -69,7 +70,7 @@ FINAL SS/
 │
 └── README.md
 
-
+```
 
 
 ---
